@@ -1,0 +1,23 @@
+{
+  "name": "xo-issue-146",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastilver/xo-issue-146.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastilver/xo-issue-146/issues"
+  },
+  "homepage": "https://github.com/mastilver/xo-issue-146#readme",
+  "devDependencies": {
+    "xo": "^0.16.0"
+  }
+}
