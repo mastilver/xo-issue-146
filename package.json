@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mastilver/xo-issue-146#readme",
   "devDependencies": {
-    "xo": "^0.16.0"
+    "xo": "^0.17.1"
   }
 }
